@@ -52,7 +52,8 @@ Dates 3/16-3/25
 ## Stretch goals (optional):
 
 **What stretch goals do you have for your project?**
-- Make it look nice and/or build web interface
+- Use a more complicated dataset
+- Expand functionality
 
 ## Evaluation
 
